@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - bookdb@127.0.0.1" uuid="65ac42e6-632f-4266-914a-e86ca466d6af">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>bookdb.*</schema-pattern>
+      <default-schemas>bookdb.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - bookdb@139.199.32.236" uuid="5c22b2c2-4288-4fa9-8099-cb86df05bac6">
+      <secret-storage>master_key</secret-storage>
+      <user-name>test</user-name>
+      <schema-pattern>bookdb.*</schema-pattern>
+      <default-schemas>bookdb.*</default-schemas>
+    </data-source>
+  </component>
+</project>
